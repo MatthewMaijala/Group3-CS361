@@ -8,6 +8,9 @@
       any issues and concerns.
 
 3.  Definition of done: when is a task complete? (hint: "I'm done with that but I didn't check it in to github" is not done.)
+    - A task is complete when a minimum of two people have reviewed the code and have okayed the submission.
+    - A task is complete when it passes all unit tests, acceptance tests, and is committted to the main branch.
+    - When it succefully intergrates the feature requested in the User Story.
 4.  Scrum meeting format/frequency and distribution of documentation tasks (meeting minutes, updating task board)
 5.  Procedure for adopting policies (e.g. code style, code check-in steps, documentation updates)
     if you adopt such a policy during the initial meeting, put it here
