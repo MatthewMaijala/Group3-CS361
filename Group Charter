@@ -19,6 +19,10 @@
 
 5.  Procedure for adopting policies (e.g. code style, code check-in steps, documentation updates)
     if you adopt such a policy during the initial meeting, put it here
+    - Comments on methods/functions are necessary
+    - Start simple with code, then add on later and in between the time period
+    - Keep everyone updated on all the code/documentation changes on discord/trello
+    - Trello changes need to be confirmed by the members on discord before publishing it on the board
 6.  Procedure for handling a member who is not meeting expectations
     must include at least 3 actions before involving the instructor
 7.  Signatures: each member must sign their name by typing their name at the bottom of the document.
