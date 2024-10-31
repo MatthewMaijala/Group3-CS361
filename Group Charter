@@ -11,7 +11,12 @@
     - A task is complete when a minimum of two people have reviewed the code and have okayed the submission.
     - A task is complete when it passes all unit tests, acceptance tests, and is committted to the main branch.
     - When it succefully intergrates the feature requested in the User Story.
+
 4.  Scrum meeting format/frequency and distribution of documentation tasks (meeting minutes, updating task board)
+    - Scrum meetings are during Monday meetings
+    - Documents will be distributed during monday's scrum meeting, in accordance to what tasks people can handle for that scrum length
+    - Tasks/documentation will be organized on Trello
+
 5.  Procedure for adopting policies (e.g. code style, code check-in steps, documentation updates)
     if you adopt such a policy during the initial meeting, put it here
 6.  Procedure for handling a member who is not meeting expectations
