@@ -1,5 +1,8 @@
 Group Charter: Group 3
 
+Goal of the Project
+    - Our goal with this project is to create an application for TA Scheduling 
+
 1.  Availability for meeting expectations:
     We have decided we can meet on these days below:
     - Monday/Wednesday: 3:00pm to 3:20pm,  
@@ -28,16 +31,26 @@ Group Charter: Group 3
     - If a task is falling behind (you are stuck for an hour or more with no progress) you must let the group members know so we can get
       The project back on track.
 
-6.  Procedure for handling a member who is not meeting expectations
-    must include at least 3 actions before involving the instructor.
-    - Someone in our group will talk to the group member who is falling short.
-    - Upon the first warning we will give a group warning with all members involved.
-    - If that doesn't work we will get the Scrum Master (TA) involved to consult the member.
-    - If all else fails we will get the Product Owner to take action (Professor Jayson Rock).
+6.  Procedure for handling a member who is not meeting expectations must include at least 3 actions before involving the instructor.
+    - Someone in our group will talk to the group member who is falling short in the event of a minor offense. (minor offense #1)
+    - Upon the first warning we will give a group warning with all members involved (minor offense #2).
+    - If that doesn't work we will get the Scrum Master (TA) involved to consult the member. (major offense #1)
+    - If all else fails we will get the Product Owner to take action (Professor Jayson Rock). (Continued offenses after major offense #1)
+
+Minor Offenses
+    - Missing 1 daily scrum within a week
+    - Not doing assignments you were given in a reasonable time, and not contacting/telling other members in the event of a task being stuck
+    - Not communicating with other members about your progress
+
+Major Offenses
+    - Missing meeting in lab without contacting the others and working out your responsibilities for the upcoming week
+    - Missing at least 3 daily scrum meetings
+    - 3 different minor offenses
 
 7.  Signatures: each member must sign their name by typing their name at the bottom of the document.
-    - Sotirios Maillis
-    - Aaditya Tiwari
-    - Matthew Maijala
-    - Ignacio Vega Rivera
-    - Max Krug
+      Name                  Email              Date
+    - Sotirios Maillis      smaillis@uwm.edu   11/14/2024
+    - Aaditya Tiwari        ftiwari@uwm.edu    11/14/2024
+    - Matthew Maijala       mmaijala@uwm.edu   11/14/2024
+    - Ignacio Vega Rivera   vegariv2@uwm.edu   11/14/2024
+    - Max Krug              maxkrug@uwm.edu    11/14/2024
