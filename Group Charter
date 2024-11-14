@@ -3,26 +3,40 @@ Group Charter: Group 3
 Goal of the Project
     - Our goal with this project is to create an application for TA Scheduling 
 
-1.  Availability for meeting expectations:
+Contact Information
+    - Sam: smaillis@uwm.edu
+    - Aadi: ftiwari@uwm.edu
+    - Matt: mmaijala@uwm.edu
+    - Ignacio: vegariv2@uwm.edu
+    - Max: maxkrug@uwm.edu
+
+Meeting Schedule
     We have decided we can meet on these days below:
     - Monday/Wednesday: 3:00pm to 3:20pm,  
     - Friday 2:00pm to 2:20pm.
 
-2.  Response time to communication expectations
-    - We hope to get a response from each other within 5 - 10 minutes, to assess and address
-      any issues and concerns.
+Time Commitment
+    - Daily Scrum meetings (20 minutes)
+    - Lab Meetings (2 Hours)
+    - At least 1 hour a day for each member working on their tasks, in case we need more time we will update this to be longer each day
+    - 3 weeks for Sprint 1
 
-3.  Definition of done: when is a task complete? (hint: "I'm done with that but I didn't check it in to github" is not done.)
+Managing PBIs
+    - If a PBI is too large then we will break it up into smaller PBIs in cases where they also vary in importance
+    - Removing PBIs: if a PBI is deemed unnecessary by the product owner then it will be removed or at least moved down in the Product Backlog
+    - Adding PBIs: if more tasks become apparent during our sprint review meeting then they will be added as new PBIs for the next sprint
+
+When is a task done
     - A task is complete when a minimum of two people have reviewed the code and have okayed the submission.
     - A task is complete when it passes all unit tests, acceptance tests, and is committted to the main branch.
     - When it succefully intergrates the feature requested in the User Story.
 
-4.  Scrum meeting format/frequency and distribution of documentation tasks (meeting minutes, updating task board)
+Scrum Meeting Format
     - Scrum meetings are during Monday meetings
     - Documents will be distributed during monday's scrum meeting, in accordance to what tasks people can handle for that scrum length
     - Tasks/documentation will be organized on Trello
 
-5.  Procedure for adopting policies (e.g. code style, code check-in steps, documentation updates)
+Procedure for our work
     if you adopt such a policy during the initial meeting, put it here
     - Comments on methods/functions are necessary
     - Start simple with code, then add on later and in between the time period
@@ -31,23 +45,34 @@ Goal of the Project
     - If a task is falling behind (you are stuck for an hour or more with no progress) you must let the group members know so we can get
       The project back on track.
 
-6.  Procedure for handling a member who is not meeting expectations must include at least 3 actions before involving the instructor.
+Rules
+    - Make sure to attend every single daily scrum meeting at the designated time.
+    - Make sure to attend every lab section, if you can't then provide a reason as to why.
+    - Respond to other team members when they are contacting you in a reasonable time (12 hours), if you can't respond for a period of time
+      let the others know ahead of time that you will be temporarily unavailable for an extensive period of time.
+    - Make sure you do the tasks that you took on in the previous meeting, if they get stuck for whatever reason then contact the other members
+    - Make sure your pull request comments are relevant and appropriate to what you did within the fork.
+    - Make sure to attend lectures to be kept up to date on relevant information that is provided during them, if you cannot attend check the 
+      recoreding that is archived in the canvas module for past lectures.
+
+    Minor Offenses
+        - Missing 1 daily scrum within a week
+        - Your pull messages are irrelevant and/or inappropriate.
+        - Not doing assignments you were given in a reasonable time, and not contacting/telling other members in the event of a task being stuck.
+        - Not communicating with other members about your progress.
+
+    Major Offenses
+        - Missing meeting in lab without contacting the others and working out your responsibilities for the upcoming week
+        - Missing at least 3 daily scrum meetings.
+        - 3 different minor offenses within a given week.
+
+How we will handle members who aren't meeting our expectations
     - Someone in our group will talk to the group member who is falling short in the event of a minor offense. (minor offense #1)
     - Upon the first warning we will give a group warning with all members involved (minor offense #2).
     - If that doesn't work we will get the Scrum Master (TA) involved to consult the member. (major offense #1)
     - If all else fails we will get the Product Owner to take action (Professor Jayson Rock). (Continued offenses after major offense #1)
 
-Minor Offenses
-    - Missing 1 daily scrum within a week
-    - Not doing assignments you were given in a reasonable time, and not contacting/telling other members in the event of a task being stuck
-    - Not communicating with other members about your progress
-
-Major Offenses
-    - Missing meeting in lab without contacting the others and working out your responsibilities for the upcoming week
-    - Missing at least 3 daily scrum meetings
-    - 3 different minor offenses
-
-7.  Signatures: each member must sign their name by typing their name at the bottom of the document.
+We as a tea
       Name                  Email              Date
     - Sotirios Maillis      smaillis@uwm.edu   11/14/2024
     - Aaditya Tiwari        ftiwari@uwm.edu    11/14/2024
